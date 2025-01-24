@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/DAdZtNW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R1c3IycmJscTF3NXAyeHcwYmtyNzJmY3Y1NjJxdnJseHQ0bml1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iv1Zwj1NDj8mPb1N8F/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap (GIF) and got url by uploading the gif in imgur.
